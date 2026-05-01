@@ -286,7 +286,7 @@ const planetGroups = planets.map((planet) => {
   return planetGroup;
 });
 
-const planetToFollowIndex = 7;
+const planetToFollowIndex = 2;
 
 console.log(planetGroups);
 
